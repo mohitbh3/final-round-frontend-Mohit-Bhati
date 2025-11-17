@@ -1,0 +1,1619 @@
+[
+  {
+    "id": "group1",
+    "title": "Tanmay Mazumdar",
+    "date": "Sep 28 - 30, 2025",
+    "totalSpend": "155.91",
+    "trips": [
+      {
+        "id": 1,
+        "merchant": "Asia",
+        "merchantLocation": "Lodging",
+        "traveler": "Ahmad Khan",
+        "travelerLocation": "Support - New York City",
+        "transactionDate": "Sep 29, 2025",
+        "flags": null,
+        "bookingSource": null,
+        "bookingStatus": null,
+        "bookingStartDate": null,
+        "destination": null,
+        "receipt": "sample memo",
+        "memo": null,
+        "spentFrom": null,
+        "paymentType": "Reimbursement",
+        "amount": "CA$16.70"
+      },
+      {
+        "id": 2,
+        "merchant": "Academy to Innovati...",
+        "merchantLocation": "Other",
+        "traveler": "Ahmad Khan",
+        "travelerLocation": "Support - New York City",
+        "transactionDate": "Sep 29, 2025",
+        "flags": null,
+        "bookingSource": null,
+        "bookingStatus": null,
+        "bookingStartDate": null,
+        "destination": null,
+        "receipt": "test",
+        "memo": null,
+        "spentFrom": null,
+        "paymentType": "Reimbursement",
+        "amount": "CA$69.61"
+      }
+    ]
+  },
+  {
+    "id": "group2",
+    "title": "Calvin's Sep 2 trip to Denver",
+    "date": "Sep 29 - Oct 14, 2025",
+    "totalSpend": "$802.22",
+    "trips": [
+      {
+        "id": 3,
+        "merchant": "United Airlines",
+        "merchantLocation": "Airlines",
+        "traveler": "Calvin Lee",
+        "travelerLocation": "Engineering - New York City",
+        "transactionDate": "Jan 10, 2021",
+        "flags": "Late airline booking less than 7 days",
+        "bookingSource": null,
+        "bookingStatus": "OE-platform booking",
+        "bookingStartDate": "Jan 10, 2021",
+        "destination": "San Francisco → Denver",
+        "receipt": "Flight to Denver",
+        "memo": null,
+        "spentFrom": "Client Consulting Trip to New York",
+        "paymentType": "Virtual card (1420)",
+        "amount": "$782.22"
+      }
+    ]
+  },
+  {
+    "id": "group3",
+    "title": "Gabe's Sep 3 trip to Miami",
+    "date": "Sep 25 - 28, 2025",
+    "totalSpend": "$5,852.67",
+    "trips": [
+      {
+        "id": 4,
+        "merchant": "Uber",
+        "merchantLocation": "Uber and Rideshare",
+        "traveler": "Gabe Lewis",
+        "travelerLocation": "Support - London",
+        "transactionDate": "Sep 25, 2025",
+        "flags": "Spend above $1...",
+        "bookingSource": "Spend above $1...",
+        "bookingStatus": null,
+        "bookingStartDate": null,
+        "destination": null,
+        "receipt": null,
+        "memo": null,
+        "spentFrom": "Cruise with Client",
+        "paymentType": "Virtual card (1292)",
+        "amount": "$5,252.00"
+      }
+    ]
+  },
+  {
+    "id": "group4",
+    "title": "Creed's Sep 4 trip to Los Angeles",
+    "date": "Sep 20 - Oct 6, 2025",
+    "totalSpend": "$1,295.16",
+    "trips": [
+      {
+        "id": 5,
+        "merchant": "InterContinental",
+        "merchantLocation": "Lodging",
+        "traveler": "Creed Bratton",
+        "travelerLocation": "Marketing - London",
+        "transactionDate": "Sep 24, 2025",
+        "flags": "Late airline booking less than 7 days",
+        "bookingSource": null,
+        "bookingStatus": "OE-platform booking",
+        "bookingStartDate": "Sep 24, 2025",
+        "destination": "Los Angeles",
+        "receipt": "Hotel in LA",
+        "memo": null,
+        "spentFrom": "Design Team Miami Office",
+        "paymentType": "Virtual card (1348)",
+        "amount": "$942.92"
+      },
+      {
+        "id": 6,
+        "merchant": "United Airlines",
+        "merchantLocation": "Airlines",
+        "traveler": "Creed Bratton",
+        "travelerLocation": "Marketing - London",
+        "transactionDate": "May 20, 2021",
+        "flags": "Late airline booking less than 7 days",
+        "bookingSource": null,
+        "bookingStatus": "OE-platform booking",
+        "bookingStartDate": "May 20, 2021",
+        "destination": "San Francisco → Los Angeles",
+        "receipt": "Flight to LAX",
+        "memo": null,
+        "spentFrom": "Design Team Miami Office",
+        "paymentType": "Virtual card (5745)",
+        "amount": "$352.24"
+      }
+    ]
+  },
+  {
+    "id": "group5",
+    "title": "Darryl's Sep 5 trip to San Francisco",
+    "date": "Sep 21 - 30, 2025",
+    "totalSpend": "$2,847.20",
+    "trips": []
+  },
+  {
+    "id": "group6",
+    "title": "Tanmay Mazumdar",
+    "date": "Sep 28 - 30, 2025",
+    "totalSpend": "155.91",
+    "trips": [
+      {
+        "id": 7,
+        "merchant": "Asia",
+        "merchantLocation": "Lodging",
+        "traveler": "Ahmad Khan",
+        "travelerLocation": "Support - New York City",
+        "transactionDate": "Sep 29, 2025",
+        "flags": null,
+        "bookingSource": null,
+        "bookingStatus": null,
+        "bookingStartDate": null,
+        "destination": null,
+        "receipt": "sample memo",
+        "memo": null,
+        "spentFrom": null,
+        "paymentType": "Reimbursement",
+        "amount": "CA$16.70"
+      },
+      {
+        "id": 8,
+        "merchant": "Academy to Innovati...",
+        "merchantLocation": "Other",
+        "traveler": "Ahmad Khan",
+        "travelerLocation": "Support - New York City",
+        "transactionDate": "Sep 29, 2025",
+        "flags": null,
+        "bookingSource": null,
+        "bookingStatus": null,
+        "bookingStartDate": null,
+        "destination": null,
+        "receipt": "test",
+        "memo": null,
+        "spentFrom": null,
+        "paymentType": "Reimbursement",
+        "amount": "CA$69.61"
+      }
+    ]
+  },
+  {
+    "id": "group7",
+    "title": "Calvin's Sep 7 trip to Denver",
+    "date": "Sep 29 - Oct 14, 2025",
+    "totalSpend": "$802.22",
+    "trips": [
+      {
+        "id": 9,
+        "merchant": "United Airlines",
+        "merchantLocation": "Airlines",
+        "traveler": "Calvin Lee",
+        "travelerLocation": "Engineering - New York City",
+        "transactionDate": "Jan 10, 2021",
+        "flags": "Late airline booking less than 7 days",
+        "bookingSource": null,
+        "bookingStatus": "OE-platform booking",
+        "bookingStartDate": "Jan 10, 2021",
+        "destination": "San Francisco → Denver",
+        "receipt": "Flight to Denver",
+        "memo": null,
+        "spentFrom": "Client Consulting Trip to New York",
+        "paymentType": "Virtual card (1420)",
+        "amount": "$782.22"
+      }
+    ]
+  },
+  {
+    "id": "group8",
+    "title": "Gabe's Sep 8 trip to Miami",
+    "date": "Sep 25 - 28, 2025",
+    "totalSpend": "$5,852.67",
+    "trips": [
+      {
+        "id": 10,
+        "merchant": "Uber",
+        "merchantLocation": "Uber and Rideshare",
+        "traveler": "Gabe Lewis",
+        "travelerLocation": "Support - London",
+        "transactionDate": "Sep 25, 2025",
+        "flags": "Spend above $1...",
+        "bookingSource": "Spend above $1...",
+        "bookingStatus": null,
+        "bookingStartDate": null,
+        "destination": null,
+        "receipt": null,
+        "memo": null,
+        "spentFrom": "Cruise with Client",
+        "paymentType": "Virtual card (1292)",
+        "amount": "$5,252.00"
+      }
+    ]
+  },
+  {
+    "id": "group9",
+    "title": "Creed's Sep 9 trip to Los Angeles",
+    "date": "Sep 20 - Oct 6, 2025",
+    "totalSpend": "$1,295.16",
+    "trips": [
+      {
+        "id": 11,
+        "merchant": "InterContinental",
+        "merchantLocation": "Lodging",
+        "traveler": "Creed Bratton",
+        "travelerLocation": "Marketing - London",
+        "transactionDate": "Sep 24, 2025",
+        "flags": "Late airline booking less than 7 days",
+        "bookingSource": null,
+        "bookingStatus": "OE-platform booking",
+        "bookingStartDate": "Sep 24, 2025",
+        "destination": "Los Angeles",
+        "receipt": "Hotel in LA",
+        "memo": null,
+        "spentFrom": "Design Team Miami Office",
+        "paymentType": "Virtual card (1348)",
+        "amount": "$942.92"
+      },
+      {
+        "id": 12,
+        "merchant": "United Airlines",
+        "merchantLocation": "Airlines",
+        "traveler": "Creed Bratton",
+        "travelerLocation": "Marketing - London",
+        "transactionDate": "May 20, 2021",
+        "flags": "Late airline booking less than 7 days",
+        "bookingSource": null,
+        "bookingStatus": "OE-platform booking",
+        "bookingStartDate": "May 20, 2021",
+        "destination": "San Francisco → Los Angeles",
+        "receipt": "Flight to LAX",
+        "memo": null,
+        "spentFrom": "Design Team Miami Office",
+        "paymentType": "Virtual card (5745)",
+        "amount": "$352.24"
+      }
+    ]
+  },
+  {
+    "id": "group10",
+    "title": "Darryl's Sep 10 trip to San Francisco",
+    "date": "Sep 21 - 30, 2025",
+    "totalSpend": "$2,847.20",
+    "trips": []
+  },
+  {
+    "id": "group11",
+    "title": "Tanmay Mazumdar",
+    "date": "Sep 28 - 30, 2025",
+    "totalSpend": "155.91",
+    "trips": [
+      {
+        "id": 13,
+        "merchant": "Asia",
+        "merchantLocation": "Lodging",
+        "traveler": "Ahmad Khan",
+        "travelerLocation": "Support - New York City",
+        "transactionDate": "Sep 29, 2025",
+        "flags": null,
+        "bookingSource": null,
+        "bookingStatus": null,
+        "bookingStartDate": null,
+        "destination": null,
+        "receipt": "sample memo",
+        "memo": null,
+        "spentFrom": null,
+        "paymentType": "Reimbursement",
+        "amount": "CA$16.70"
+      },
+      {
+        "id": 14,
+        "merchant": "Academy to Innovati...",
+        "merchantLocation": "Other",
+        "traveler": "Ahmad Khan",
+        "travelerLocation": "Support - New York City",
+        "transactionDate": "Sep 29, 2025",
+        "flags": null,
+        "bookingSource": null,
+        "bookingStatus": null,
+        "bookingStartDate": null,
+        "destination": null,
+        "receipt": "test",
+        "memo": null,
+        "spentFrom": null,
+        "paymentType": "Reimbursement",
+        "amount": "CA$69.61"
+      }
+    ]
+  },
+  {
+    "id": "group12",
+    "title": "Calvin's Sep 12 trip to Denver",
+    "date": "Sep 29 - Oct 14, 2025",
+    "totalSpend": "$802.22",
+    "trips": [
+      {
+        "id": 15,
+        "merchant": "United Airlines",
+        "merchantLocation": "Airlines",
+        "traveler": "Calvin Lee",
+        "travelerLocation": "Engineering - New York City",
+        "transactionDate": "Jan 10, 2021",
+        "flags": "Late airline booking less than 7 days",
+        "bookingSource": null,
+        "bookingStatus": "OE-platform booking",
+        "bookingStartDate": "Jan 10, 2021",
+        "destination": "San Francisco → Denver",
+        "receipt": "Flight to Denver",
+        "memo": null,
+        "spentFrom": "Client Consulting Trip to New York",
+        "paymentType": "Virtual card (1420)",
+        "amount": "$782.22"
+      }
+    ]
+  },
+  {
+    "id": "group13",
+    "title": "Gabe's Sep 13 trip to Miami",
+    "date": "Sep 25 - 28, 2025",
+    "totalSpend": "$5,852.67",
+    "trips": [
+      {
+        "id": 16,
+        "merchant": "Uber",
+        "merchantLocation": "Uber and Rideshare",
+        "traveler": "Gabe Lewis",
+        "travelerLocation": "Support - London",
+        "transactionDate": "Sep 25, 2025",
+        "flags": "Spend above $1...",
+        "bookingSource": "Spend above $1...",
+        "bookingStatus": null,
+        "bookingStartDate": null,
+        "destination": null,
+        "receipt": null,
+        "memo": null,
+        "spentFrom": "Cruise with Client",
+        "paymentType": "Virtual card (1292)",
+        "amount": "$5,252.00"
+      }
+    ]
+  },
+  {
+    "id": "group14",
+    "title": "Creed's Sep 14 trip to Los Angeles",
+    "date": "Sep 20 - Oct 6, 2025",
+    "totalSpend": "$1,295.16",
+    "trips": [
+      {
+        "id": 17,
+        "merchant": "InterContinental",
+        "merchantLocation": "Lodging",
+        "traveler": "Creed Bratton",
+        "travelerLocation": "Marketing - London",
+        "transactionDate": "Sep 24, 2025",
+        "flags": "Late airline booking less than 7 days",
+        "bookingSource": null,
+        "bookingStatus": "OE-platform booking",
+        "bookingStartDate": "Sep 24, 2025",
+        "destination": "Los Angeles",
+        "receipt": "Hotel in LA",
+        "memo": null,
+        "spentFrom": "Design Team Miami Office",
+        "paymentType": "Virtual card (1348)",
+        "amount": "$942.92"
+      },
+      {
+        "id": 18,
+        "merchant": "United Airlines",
+        "merchantLocation": "Airlines",
+        "traveler": "Creed Bratton",
+        "travelerLocation": "Marketing - London",
+        "transactionDate": "May 20, 2021",
+        "flags": "Late airline booking less than 7 days",
+        "bookingSource": null,
+        "bookingStatus": "OE-platform booking",
+        "bookingStartDate": "May 20, 2021",
+        "destination": "San Francisco → Los Angeles",
+        "receipt": "Flight to LAX",
+        "memo": null,
+        "spentFrom": "Design Team Miami Office",
+        "paymentType": "Virtual card (5745)",
+        "amount": "$352.24"
+      }
+    ]
+  },
+  {
+    "id": "group15",
+    "title": "Darryl's Sep 15 trip to San Francisco",
+    "date": "Sep 21 - 30, 2025",
+    "totalSpend": "$2,847.20",
+    "trips": []
+  },
+  {
+    "id": "group16",
+    "title": "Tanmay Mazumdar",
+    "date": "Sep 28 - 30, 2025",
+    "totalSpend": "155.91",
+    "trips": [
+      {
+        "id": 19,
+        "merchant": "Asia",
+        "merchantLocation": "Lodging",
+        "traveler": "Ahmad Khan",
+        "travelerLocation": "Support - New York City",
+        "transactionDate": "Sep 29, 2025",
+        "flags": null,
+        "bookingSource": null,
+        "bookingStatus": null,
+        "bookingStartDate": null,
+        "destination": null,
+        "receipt": "sample memo",
+        "memo": null,
+        "spentFrom": null,
+        "paymentType": "Reimbursement",
+        "amount": "CA$16.70"
+      },
+      {
+        "id": 20,
+        "merchant": "Academy to Innovati...",
+        "merchantLocation": "Other",
+        "traveler": "Ahmad Khan",
+        "travelerLocation": "Support - New York City",
+        "transactionDate": "Sep 29, 2025",
+        "flags": null,
+        "bookingSource": null,
+        "bookingStatus": null,
+        "bookingStartDate": null,
+        "destination": null,
+        "receipt": "test",
+        "memo": null,
+        "spentFrom": null,
+        "paymentType": "Reimbursement",
+        "amount": "CA$69.61"
+      }
+    ]
+  },
+  {
+    "id": "group17",
+    "title": "Calvin's Sep 17 trip to Denver",
+    "date": "Sep 29 - Oct 14, 2025",
+    "totalSpend": "$802.22",
+    "trips": [
+      {
+        "id": 21,
+        "merchant": "United Airlines",
+        "merchantLocation": "Airlines",
+        "traveler": "Calvin Lee",
+        "travelerLocation": "Engineering - New York City",
+        "transactionDate": "Jan 10, 2021",
+        "flags": "Late airline booking less than 7 days",
+        "bookingSource": null,
+        "bookingStatus": "OE-platform booking",
+        "bookingStartDate": "Jan 10, 2021",
+        "destination": "San Francisco → Denver",
+        "receipt": "Flight to Denver",
+        "memo": null,
+        "spentFrom": "Client Consulting Trip to New York",
+        "paymentType": "Virtual card (1420)",
+        "amount": "$782.22"
+      }
+    ]
+  },
+  {
+    "id": "group18",
+    "title": "Gabe's Sep 18 trip to Miami",
+    "date": "Sep 25 - 28, 2025",
+    "totalSpend": "$5,852.67",
+    "trips": [
+      {
+        "id": 22,
+        "merchant": "Uber",
+        "merchantLocation": "Uber and Rideshare",
+        "traveler": "Gabe Lewis",
+        "travelerLocation": "Support - London",
+        "transactionDate": "Sep 25, 2025",
+        "flags": "Spend above $1...",
+        "bookingSource": "Spend above $1...",
+        "bookingStatus": null,
+        "bookingStartDate": null,
+        "destination": null,
+        "receipt": null,
+        "memo": null,
+        "spentFrom": "Cruise with Client",
+        "paymentType": "Virtual card (1292)",
+        "amount": "$5,252.00"
+      }
+    ]
+  },
+  {
+    "id": "group19",
+    "title": "Creed's Sep 19 trip to Los Angeles",
+    "date": "Sep 20 - Oct 6, 2025",
+    "totalSpend": "$1,295.16",
+    "trips": [
+      {
+        "id": 23,
+        "merchant": "InterContinental",
+        "merchantLocation": "Lodging",
+        "traveler": "Creed Bratton",
+        "travelerLocation": "Marketing - London",
+        "transactionDate": "Sep 24, 2025",
+        "flags": "Late airline booking less than 7 days",
+        "bookingSource": null,
+        "bookingStatus": "OE-platform booking",
+        "bookingStartDate": "Sep 24, 2025",
+        "destination": "Los Angeles",
+        "receipt": "Hotel in LA",
+        "memo": null,
+        "spentFrom": "Design Team Miami Office",
+        "paymentType": "Virtual card (1348)",
+        "amount": "$942.92"
+      },
+      {
+        "id": 24,
+        "merchant": "United Airlines",
+        "merchantLocation": "Airlines",
+        "traveler": "Creed Bratton",
+        "travelerLocation": "Marketing - London",
+        "transactionDate": "May 20, 2021",
+        "flags": "Late airline booking less than 7 days",
+        "bookingSource": null,
+        "bookingStatus": "OE-platform booking",
+        "bookingStartDate": "May 20, 2021",
+        "destination": "San Francisco → Los Angeles",
+        "receipt": "Flight to LAX",
+        "memo": null,
+        "spentFrom": "Design Team Miami Office",
+        "paymentType": "Virtual card (5745)",
+        "amount": "$352.24"
+      }
+    ]
+  },
+  {
+    "id": "group20",
+    "title": "Darryl's Sep 20 trip to San Francisco",
+    "date": "Sep 21 - 30, 2025",
+    "totalSpend": "$2,847.20",
+    "trips": []
+  },
+  {
+    "id": "group21",
+    "title": "Tanmay Mazumdar",
+    "date": "Sep 28 - 30, 2025",
+    "totalSpend": "155.91",
+    "trips": [
+      {
+        "id": 25,
+        "merchant": "Asia",
+        "merchantLocation": "Lodging",
+        "traveler": "Ahmad Khan",
+        "travelerLocation": "Support - New York City",
+        "transactionDate": "Sep 29, 2025",
+        "flags": null,
+        "bookingSource": null,
+        "bookingStatus": null,
+        "bookingStartDate": null,
+        "destination": null,
+        "receipt": "sample memo",
+        "memo": null,
+        "spentFrom": null,
+        "paymentType": "Reimbursement",
+        "amount": "CA$16.70"
+      },
+      {
+        "id": 26,
+        "merchant": "Academy to Innovati...",
+        "merchantLocation": "Other",
+        "traveler": "Ahmad Khan",
+        "travelerLocation": "Support - New York City",
+        "transactionDate": "Sep 29, 2025",
+        "flags": null,
+        "bookingSource": null,
+        "bookingStatus": null,
+        "bookingStartDate": null,
+        "destination": null,
+        "receipt": "test",
+        "memo": null,
+        "spentFrom": null,
+        "paymentType": "Reimbursement",
+        "amount": "CA$69.61"
+      }
+    ]
+  },
+  {
+    "id": "group22",
+    "title": "Calvin's Sep 22 trip to Denver",
+    "date": "Sep 29 - Oct 14, 2025",
+    "totalSpend": "$802.22",
+    "trips": [
+      {
+        "id": 27,
+        "merchant": "United Airlines",
+        "merchantLocation": "Airlines",
+        "traveler": "Calvin Lee",
+        "travelerLocation": "Engineering - New York City",
+        "transactionDate": "Jan 10, 2021",
+        "flags": "Late airline booking less than 7 days",
+        "bookingSource": null,
+        "bookingStatus": "OE-platform booking",
+        "bookingStartDate": "Jan 10, 2021",
+        "destination": "San Francisco → Denver",
+        "receipt": "Flight to Denver",
+        "memo": null,
+        "spentFrom": "Client Consulting Trip to New York",
+        "paymentType": "Virtual card (1420)",
+        "amount": "$782.22"
+      }
+    ]
+  },
+  {
+    "id": "group23",
+    "title": "Gabe's Sep 23 trip to Miami",
+    "date": "Sep 25 - 28, 2025",
+    "totalSpend": "$5,852.67",
+    "trips": [
+      {
+        "id": 28,
+        "merchant": "Uber",
+        "merchantLocation": "Uber and Rideshare",
+        "traveler": "Gabe Lewis",
+        "travelerLocation": "Support - London",
+        "transactionDate": "Sep 25, 2025",
+        "flags": "Spend above $1...",
+        "bookingSource": "Spend above $1...",
+        "bookingStatus": null,
+        "bookingStartDate": null,
+        "destination": null,
+        "receipt": null,
+        "memo": null,
+        "spentFrom": "Cruise with Client",
+        "paymentType": "Virtual card (1292)",
+        "amount": "$5,252.00"
+      }
+    ]
+  },
+  {
+    "id": "group24",
+    "title": "Creed's Sep 24 trip to Los Angeles",
+    "date": "Sep 20 - Oct 6, 2025",
+    "totalSpend": "$1,295.16",
+    "trips": [
+      {
+        "id": 29,
+        "merchant": "InterContinental",
+        "merchantLocation": "Lodging",
+        "traveler": "Creed Bratton",
+        "travelerLocation": "Marketing - London",
+        "transactionDate": "Sep 24, 2025",
+        "flags": "Late airline booking less than 7 days",
+        "bookingSource": null,
+        "bookingStatus": "OE-platform booking",
+        "bookingStartDate": "Sep 24, 2025",
+        "destination": "Los Angeles",
+        "receipt": "Hotel in LA",
+        "memo": null,
+        "spentFrom": "Design Team Miami Office",
+        "paymentType": "Virtual card (1348)",
+        "amount": "$942.92"
+      },
+      {
+        "id": 30,
+        "merchant": "United Airlines",
+        "merchantLocation": "Airlines",
+        "traveler": "Creed Bratton",
+        "travelerLocation": "Marketing - London",
+        "transactionDate": "May 20, 2021",
+        "flags": "Late airline booking less than 7 days",
+        "bookingSource": null,
+        "bookingStatus": "OE-platform booking",
+        "bookingStartDate": "May 20, 2021",
+        "destination": "San Francisco → Los Angeles",
+        "receipt": "Flight to LAX",
+        "memo": null,
+        "spentFrom": "Design Team Miami Office",
+        "paymentType": "Virtual card (5745)",
+        "amount": "$352.24"
+      }
+    ]
+  },
+  {
+    "id": "group25",
+    "title": "Darryl's Sep 25 trip to San Francisco",
+    "date": "Sep 21 - 30, 2025",
+    "totalSpend": "$2,847.20",
+    "trips": []
+  },
+  {
+    "id": "group26",
+    "title": "Tanmay Mazumdar",
+    "date": "Sep 28 - 30, 2025",
+    "totalSpend": "155.91",
+    "trips": [
+      {
+        "id": 31,
+        "merchant": "Asia",
+        "merchantLocation": "Lodging",
+        "traveler": "Ahmad Khan",
+        "travelerLocation": "Support - New York City",
+        "transactionDate": "Sep 29, 2025",
+        "flags": null,
+        "bookingSource": null,
+        "bookingStatus": null,
+        "bookingStartDate": null,
+        "destination": null,
+        "receipt": "sample memo",
+        "memo": null,
+        "spentFrom": null,
+        "paymentType": "Reimbursement",
+        "amount": "CA$16.70"
+      },
+      {
+        "id": 32,
+        "merchant": "Academy to Innovati...",
+        "merchantLocation": "Other",
+        "traveler": "Ahmad Khan",
+        "travelerLocation": "Support - New York City",
+        "transactionDate": "Sep 29, 2025",
+        "flags": null,
+        "bookingSource": null,
+        "bookingStatus": null,
+        "bookingStartDate": null,
+        "destination": null,
+        "receipt": "test",
+        "memo": null,
+        "spentFrom": null,
+        "paymentType": "Reimbursement",
+        "amount": "CA$69.61"
+      }
+    ]
+  },
+  {
+    "id": "group27",
+    "title": "Calvin's Sep 27 trip to Denver",
+    "date": "Sep 29 - Oct 14, 2025",
+    "totalSpend": "$802.22",
+    "trips": [
+      {
+        "id": 33,
+        "merchant": "United Airlines",
+        "merchantLocation": "Airlines",
+        "traveler": "Calvin Lee",
+        "travelerLocation": "Engineering - New York City",
+        "transactionDate": "Jan 10, 2021",
+        "flags": "Late airline booking less than 7 days",
+        "bookingSource": null,
+        "bookingStatus": "OE-platform booking",
+        "bookingStartDate": "Jan 10, 2021",
+        "destination": "San Francisco → Denver",
+        "receipt": "Flight to Denver",
+        "memo": null,
+        "spentFrom": "Client Consulting Trip to New York",
+        "paymentType": "Virtual card (1420)",
+        "amount": "$782.22"
+      }
+    ]
+  },
+  {
+    "id": "group28",
+    "title": "Gabe's Sep 28 trip to Miami",
+    "date": "Sep 25 - 28, 2025",
+    "totalSpend": "$5,852.67",
+    "trips": [
+      {
+        "id": 34,
+        "merchant": "Uber",
+        "merchantLocation": "Uber and Rideshare",
+        "traveler": "Gabe Lewis",
+        "travelerLocation": "Support - London",
+        "transactionDate": "Sep 25, 2025",
+        "flags": "Spend above $1...",
+        "bookingSource": "Spend above $1...",
+        "bookingStatus": null,
+        "bookingStartDate": null,
+        "destination": null,
+        "receipt": null,
+        "memo": null,
+        "spentFrom": "Cruise with Client",
+        "paymentType": "Virtual card (1292)",
+        "amount": "$5,252.00"
+      }
+    ]
+  },
+  {
+    "id": "group29",
+    "title": "Creed's Sep 29 trip to Los Angeles",
+    "date": "Sep 20 - Oct 6, 2025",
+    "totalSpend": "$1,295.16",
+    "trips": [
+      {
+        "id": 35,
+        "merchant": "InterContinental",
+        "merchantLocation": "Lodging",
+        "traveler": "Creed Bratton",
+        "travelerLocation": "Marketing - London",
+        "transactionDate": "Sep 24, 2025",
+        "flags": "Late airline booking less than 7 days",
+        "bookingSource": null,
+        "bookingStatus": "OE-platform booking",
+        "bookingStartDate": "Sep 24, 2025",
+        "destination": "Los Angeles",
+        "receipt": "Hotel in LA",
+        "memo": null,
+        "spentFrom": "Design Team Miami Office",
+        "paymentType": "Virtual card (1348)",
+        "amount": "$942.92"
+      },
+      {
+        "id": 36,
+        "merchant": "United Airlines",
+        "merchantLocation": "Airlines",
+        "traveler": "Creed Bratton",
+        "travelerLocation": "Marketing - London",
+        "transactionDate": "May 20, 2021",
+        "flags": "Late airline booking less than 7 days",
+        "bookingSource": null,
+        "bookingStatus": "OE-platform booking",
+        "bookingStartDate": "May 20, 2021",
+        "destination": "San Francisco → Los Angeles",
+        "receipt": "Flight to LAX",
+        "memo": null,
+        "spentFrom": "Design Team Miami Office",
+        "paymentType": "Virtual card (5745)",
+        "amount": "$352.24"
+      }
+    ]
+  },
+  {
+    "id": "group30",
+    "title": "Darryl's Sep 30 trip to San Francisco",
+    "date": "Sep 21 - 30, 2025",
+    "totalSpend": "$2,847.20",
+    "trips": []
+  },
+  {
+    "id": "group31",
+    "title": "Tanmay Mazumdar",
+    "date": "Sep 28 - 30, 2025",
+    "totalSpend": "155.91",
+    "trips": [
+      {
+        "id": 37,
+        "merchant": "Asia",
+        "merchantLocation": "Lodging",
+        "traveler": "Ahmad Khan",
+        "travelerLocation": "Support - New York City",
+        "transactionDate": "Sep 29, 2025",
+        "flags": null,
+        "bookingSource": null,
+        "bookingStatus": null,
+        "bookingStartDate": null,
+        "destination": null,
+        "receipt": "sample memo",
+        "memo": null,
+        "spentFrom": null,
+        "paymentType": "Reimbursement",
+        "amount": "CA$16.70"
+      },
+      {
+        "id": 38,
+        "merchant": "Academy to Innovati...",
+        "merchantLocation": "Other",
+        "traveler": "Ahmad Khan",
+        "travelerLocation": "Support - New York City",
+        "transactionDate": "Sep 29, 2025",
+        "flags": null,
+        "bookingSource": null,
+        "bookingStatus": null,
+        "bookingStartDate": null,
+        "destination": null,
+        "receipt": "test",
+        "memo": null,
+        "spentFrom": null,
+        "paymentType": "Reimbursement",
+        "amount": "CA$69.61"
+      }
+    ]
+  },
+  {
+    "id": "group32",
+    "title": "Calvin's Sep 32 trip to Denver",
+    "date": "Sep 29 - Oct 14, 2025",
+    "totalSpend": "$802.22",
+    "trips": [
+      {
+        "id": 39,
+        "merchant": "United Airlines",
+        "merchantLocation": "Airlines",
+        "traveler": "Calvin Lee",
+        "travelerLocation": "Engineering - New York City",
+        "transactionDate": "Jan 10, 2021",
+        "flags": "Late airline booking less than 7 days",
+        "bookingSource": null,
+        "bookingStatus": "OE-platform booking",
+        "bookingStartDate": "Jan 10, 2021",
+        "destination": "San Francisco → Denver",
+        "receipt": "Flight to Denver",
+        "memo": null,
+        "spentFrom": "Client Consulting Trip to New York",
+        "paymentType": "Virtual card (1420)",
+        "amount": "$782.22"
+      }
+    ]
+  },
+  {
+    "id": "group33",
+    "title": "Gabe's Sep 33 trip to Miami",
+    "date": "Sep 25 - 28, 2025",
+    "totalSpend": "$5,852.67",
+    "trips": [
+      {
+        "id": 40,
+        "merchant": "Uber",
+        "merchantLocation": "Uber and Rideshare",
+        "traveler": "Gabe Lewis",
+        "travelerLocation": "Support - London",
+        "transactionDate": "Sep 25, 2025",
+        "flags": "Spend above $1...",
+        "bookingSource": "Spend above $1...",
+        "bookingStatus": null,
+        "bookingStartDate": null,
+        "destination": null,
+        "receipt": null,
+        "memo": null,
+        "spentFrom": "Cruise with Client",
+        "paymentType": "Virtual card (1292)",
+        "amount": "$5,252.00"
+      }
+    ]
+  },
+  {
+    "id": "group34",
+    "title": "Creed's Sep 34 trip to Los Angeles",
+    "date": "Sep 20 - Oct 6, 2025",
+    "totalSpend": "$1,295.16",
+    "trips": [
+      {
+        "id": 41,
+        "merchant": "InterContinental",
+        "merchantLocation": "Lodging",
+        "traveler": "Creed Bratton",
+        "travelerLocation": "Marketing - London",
+        "transactionDate": "Sep 24, 2025",
+        "flags": "Late airline booking less than 7 days",
+        "bookingSource": null,
+        "bookingStatus": "OE-platform booking",
+        "bookingStartDate": "Sep 24, 2025",
+        "destination": "Los Angeles",
+        "receipt": "Hotel in LA",
+        "memo": null,
+        "spentFrom": "Design Team Miami Office",
+        "paymentType": "Virtual card (1348)",
+        "amount": "$942.92"
+      },
+      {
+        "id": 42,
+        "merchant": "United Airlines",
+        "merchantLocation": "Airlines",
+        "traveler": "Creed Bratton",
+        "travelerLocation": "Marketing - London",
+        "transactionDate": "May 20, 2021",
+        "flags": "Late airline booking less than 7 days",
+        "bookingSource": null,
+        "bookingStatus": "OE-platform booking",
+        "bookingStartDate": "May 20, 2021",
+        "destination": "San Francisco → Los Angeles",
+        "receipt": "Flight to LAX",
+        "memo": null,
+        "spentFrom": "Design Team Miami Office",
+        "paymentType": "Virtual card (5745)",
+        "amount": "$352.24"
+      }
+    ]
+  },
+  {
+    "id": "group35",
+    "title": "Darryl's Sep 35 trip to San Francisco",
+    "date": "Sep 21 - 30, 2025",
+    "totalSpend": "$2,847.20",
+    "trips": []
+  },
+  {
+    "id": "group36",
+    "title": "Tanmay Mazumdar",
+    "date": "Sep 28 - 30, 2025",
+    "totalSpend": "155.91",
+    "trips": [
+      {
+        "id": 43,
+        "merchant": "Asia",
+        "merchantLocation": "Lodging",
+        "traveler": "Ahmad Khan",
+        "travelerLocation": "Support - New York City",
+        "transactionDate": "Sep 29, 2025",
+        "flags": null,
+        "bookingSource": null,
+        "bookingStatus": null,
+        "bookingStartDate": null,
+        "destination": null,
+        "receipt": "sample memo",
+        "memo": null,
+        "spentFrom": null,
+        "paymentType": "Reimbursement",
+        "amount": "CA$16.70"
+      },
+      {
+        "id": 44,
+        "merchant": "Academy to Innovati...",
+        "merchantLocation": "Other",
+        "traveler": "Ahmad Khan",
+        "travelerLocation": "Support - New York City",
+        "transactionDate": "Sep 29, 2025",
+        "flags": null,
+        "bookingSource": null,
+        "bookingStatus": null,
+        "bookingStartDate": null,
+        "destination": null,
+        "receipt": "test",
+        "memo": null,
+        "spentFrom": null,
+        "paymentType": "Reimbursement",
+        "amount": "CA$69.61"
+      }
+    ]
+  },
+  {
+    "id": "group37",
+    "title": "Calvin's Sep 37 trip to Denver",
+    "date": "Sep 29 - Oct 14, 2025",
+    "totalSpend": "$802.22",
+    "trips": [
+      {
+        "id": 45,
+        "merchant": "United Airlines",
+        "merchantLocation": "Airlines",
+        "traveler": "Calvin Lee",
+        "travelerLocation": "Engineering - New York City",
+        "transactionDate": "Jan 10, 2021",
+        "flags": "Late airline booking less than 7 days",
+        "bookingSource": null,
+        "bookingStatus": "OE-platform booking",
+        "bookingStartDate": "Jan 10, 2021",
+        "destination": "San Francisco → Denver",
+        "receipt": "Flight to Denver",
+        "memo": null,
+        "spentFrom": "Client Consulting Trip to New York",
+        "paymentType": "Virtual card (1420)",
+        "amount": "$782.22"
+      }
+    ]
+  },
+  {
+    "id": "group38",
+    "title": "Gabe's Sep 38 trip to Miami",
+    "date": "Sep 25 - 28, 2025",
+    "totalSpend": "$5,852.67",
+    "trips": [
+      {
+        "id": 46,
+        "merchant": "Uber",
+        "merchantLocation": "Uber and Rideshare",
+        "traveler": "Gabe Lewis",
+        "travelerLocation": "Support - London",
+        "transactionDate": "Sep 25, 2025",
+        "flags": "Spend above $1...",
+        "bookingSource": "Spend above $1...",
+        "bookingStatus": null,
+        "bookingStartDate": null,
+        "destination": null,
+        "receipt": null,
+        "memo": null,
+        "spentFrom": "Cruise with Client",
+        "paymentType": "Virtual card (1292)",
+        "amount": "$5,252.00"
+      }
+    ]
+  },
+  {
+    "id": "group39",
+    "title": "Creed's Sep 39 trip to Los Angeles",
+    "date": "Sep 20 - Oct 6, 2025",
+    "totalSpend": "$1,295.16",
+    "trips": [
+      {
+        "id": 47,
+        "merchant": "InterContinental",
+        "merchantLocation": "Lodging",
+        "traveler": "Creed Bratton",
+        "travelerLocation": "Marketing - London",
+        "transactionDate": "Sep 24, 2025",
+        "flags": "Late airline booking less than 7 days",
+        "bookingSource": null,
+        "bookingStatus": "OE-platform booking",
+        "bookingStartDate": "Sep 24, 2025",
+        "destination": "Los Angeles",
+        "receipt": "Hotel in LA",
+        "memo": null,
+        "spentFrom": "Design Team Miami Office",
+        "paymentType": "Virtual card (1348)",
+        "amount": "$942.92"
+      },
+      {
+        "id": 48,
+        "merchant": "United Airlines",
+        "merchantLocation": "Airlines",
+        "traveler": "Creed Bratton",
+        "travelerLocation": "Marketing - London",
+        "transactionDate": "May 20, 2021",
+        "flags": "Late airline booking less than 7 days",
+        "bookingSource": null,
+        "bookingStatus": "OE-platform booking",
+        "bookingStartDate": "May 20, 2021",
+        "destination": "San Francisco → Los Angeles",
+        "receipt": "Flight to LAX",
+        "memo": null,
+        "spentFrom": "Design Team Miami Office",
+        "paymentType": "Virtual card (5745)",
+        "amount": "$352.24"
+      }
+    ]
+  },
+  {
+    "id": "group40",
+    "title": "Darryl's Sep 40 trip to San Francisco",
+    "date": "Sep 21 - 30, 2025",
+    "totalSpend": "$2,847.20",
+    "trips": []
+  },
+  {
+    "id": "group41",
+    "title": "Tanmay Mazumdar",
+    "date": "Sep 28 - 30, 2025",
+    "totalSpend": "155.91",
+    "trips": [
+      {
+        "id": 49,
+        "merchant": "Asia",
+        "merchantLocation": "Lodging",
+        "traveler": "Ahmad Khan",
+        "travelerLocation": "Support - New York City",
+        "transactionDate": "Sep 29, 2025",
+        "flags": null,
+        "bookingSource": null,
+        "bookingStatus": null,
+        "bookingStartDate": null,
+        "destination": null,
+        "receipt": "sample memo",
+        "memo": null,
+        "spentFrom": null,
+        "paymentType": "Reimbursement",
+        "amount": "CA$16.70"
+      },
+      {
+        "id": 50,
+        "merchant": "Academy to Innovati...",
+        "merchantLocation": "Other",
+        "traveler": "Ahmad Khan",
+        "travelerLocation": "Support - New York City",
+        "transactionDate": "Sep 29, 2025",
+        "flags": null,
+        "bookingSource": null,
+        "bookingStatus": null,
+        "bookingStartDate": null,
+        "destination": null,
+        "receipt": "test",
+        "memo": null,
+        "spentFrom": null,
+        "paymentType": "Reimbursement",
+        "amount": "CA$69.61"
+      }
+    ]
+  },
+  {
+    "id": "group42",
+    "title": "Calvin's Sep 42 trip to Denver",
+    "date": "Sep 29 - Oct 14, 2025",
+    "totalSpend": "$802.22",
+    "trips": [
+      {
+        "id": 51,
+        "merchant": "United Airlines",
+        "merchantLocation": "Airlines",
+        "traveler": "Calvin Lee",
+        "travelerLocation": "Engineering - New York City",
+        "transactionDate": "Jan 10, 2021",
+        "flags": "Late airline booking less than 7 days",
+        "bookingSource": null,
+        "bookingStatus": "OE-platform booking",
+        "bookingStartDate": "Jan 10, 2021",
+        "destination": "San Francisco → Denver",
+        "receipt": "Flight to Denver",
+        "memo": null,
+        "spentFrom": "Client Consulting Trip to New York",
+        "paymentType": "Virtual card (1420)",
+        "amount": "$782.22"
+      }
+    ]
+  },
+  {
+    "id": "group43",
+    "title": "Gabe's Sep 43 trip to Miami",
+    "date": "Sep 25 - 28, 2025",
+    "totalSpend": "$5,852.67",
+    "trips": [
+      {
+        "id": 52,
+        "merchant": "Uber",
+        "merchantLocation": "Uber and Rideshare",
+        "traveler": "Gabe Lewis",
+        "travelerLocation": "Support - London",
+        "transactionDate": "Sep 25, 2025",
+        "flags": "Spend above $1...",
+        "bookingSource": "Spend above $1...",
+        "bookingStatus": null,
+        "bookingStartDate": null,
+        "destination": null,
+        "receipt": null,
+        "memo": null,
+        "spentFrom": "Cruise with Client",
+        "paymentType": "Virtual card (1292)",
+        "amount": "$5,252.00"
+      }
+    ]
+  },
+  {
+    "id": "group44",
+    "title": "Creed's Sep 44 trip to Los Angeles",
+    "date": "Sep 20 - Oct 6, 2025",
+    "totalSpend": "$1,295.16",
+    "trips": [
+      {
+        "id": 53,
+        "merchant": "InterContinental",
+        "merchantLocation": "Lodging",
+        "traveler": "Creed Bratton",
+        "travelerLocation": "Marketing - London",
+        "transactionDate": "Sep 24, 2025",
+        "flags": "Late airline booking less than 7 days",
+        "bookingSource": null,
+        "bookingStatus": "OE-platform booking",
+        "bookingStartDate": "Sep 24, 2025",
+        "destination": "Los Angeles",
+        "receipt": "Hotel in LA",
+        "memo": null,
+        "spentFrom": "Design Team Miami Office",
+        "paymentType": "Virtual card (1348)",
+        "amount": "$942.92"
+      },
+      {
+        "id": 54,
+        "merchant": "United Airlines",
+        "merchantLocation": "Airlines",
+        "traveler": "Creed Bratton",
+        "travelerLocation": "Marketing - London",
+        "transactionDate": "May 20, 2021",
+        "flags": "Late airline booking less than 7 days",
+        "bookingSource": null,
+        "bookingStatus": "OE-platform booking",
+        "bookingStartDate": "May 20, 2021",
+        "destination": "San Francisco → Los Angeles",
+        "receipt": "Flight to LAX",
+        "memo": null,
+        "spentFrom": "Design Team Miami Office",
+        "paymentType": "Virtual card (5745)",
+        "amount": "$352.24"
+      }
+    ]
+  },
+  {
+    "id": "group45",
+    "title": "Darryl's Sep 45 trip to San Francisco",
+    "date": "Sep 21 - 30, 2025",
+    "totalSpend": "$2,847.20",
+    "trips": []
+  },
+  {
+    "id": "group46",
+    "title": "Tanmay Mazumdar",
+    "date": "Sep 28 - 30, 2025",
+    "totalSpend": "155.91",
+    "trips": [
+      {
+        "id": 55,
+        "merchant": "Asia",
+        "merchantLocation": "Lodging",
+        "traveler": "Ahmad Khan",
+        "travelerLocation": "Support - New York City",
+        "transactionDate": "Sep 29, 2025",
+        "flags": null,
+        "bookingSource": null,
+        "bookingStatus": null,
+        "bookingStartDate": null,
+        "destination": null,
+        "receipt": "sample memo",
+        "memo": null,
+        "spentFrom": null,
+        "paymentType": "Reimbursement",
+        "amount": "CA$16.70"
+      },
+      {
+        "id": 56,
+        "merchant": "Academy to Innovati...",
+        "merchantLocation": "Other",
+        "traveler": "Ahmad Khan",
+        "travelerLocation": "Support - New York City",
+        "transactionDate": "Sep 29, 2025",
+        "flags": null,
+        "bookingSource": null,
+        "bookingStatus": null,
+        "bookingStartDate": null,
+        "destination": null,
+        "receipt": "test",
+        "memo": null,
+        "spentFrom": null,
+        "paymentType": "Reimbursement",
+        "amount": "CA$69.61"
+      }
+    ]
+  },
+  {
+    "id": "group47",
+    "title": "Calvin's Sep 47 trip to Denver",
+    "date": "Sep 29 - Oct 14, 2025",
+    "totalSpend": "$802.22",
+    "trips": [
+      {
+        "id": 57,
+        "merchant": "United Airlines",
+        "merchantLocation": "Airlines",
+        "traveler": "Calvin Lee",
+        "travelerLocation": "Engineering - New York City",
+        "transactionDate": "Jan 10, 2021",
+        "flags": "Late airline booking less than 7 days",
+        "bookingSource": null,
+        "bookingStatus": "OE-platform booking",
+        "bookingStartDate": "Jan 10, 2021",
+        "destination": "San Francisco → Denver",
+        "receipt": "Flight to Denver",
+        "memo": null,
+        "spentFrom": "Client Consulting Trip to New York",
+        "paymentType": "Virtual card (1420)",
+        "amount": "$782.22"
+      }
+    ]
+  },
+  {
+    "id": "group48",
+    "title": "Gabe's Sep 48 trip to Miami",
+    "date": "Sep 25 - 28, 2025",
+    "totalSpend": "$5,852.67",
+    "trips": [
+      {
+        "id": 58,
+        "merchant": "Uber",
+        "merchantLocation": "Uber and Rideshare",
+        "traveler": "Gabe Lewis",
+        "travelerLocation": "Support - London",
+        "transactionDate": "Sep 25, 2025",
+        "flags": "Spend above $1...",
+        "bookingSource": "Spend above $1...",
+        "bookingStatus": null,
+        "bookingStartDate": null,
+        "destination": null,
+        "receipt": null,
+        "memo": null,
+        "spentFrom": "Cruise with Client",
+        "paymentType": "Virtual card (1292)",
+        "amount": "$5,252.00"
+      }
+    ]
+  },
+  {
+    "id": "group49",
+    "title": "Creed's Sep 49 trip to Los Angeles",
+    "date": "Sep 20 - Oct 6, 2025",
+    "totalSpend": "$1,295.16",
+    "trips": [
+      {
+        "id": 59,
+        "merchant": "InterContinental",
+        "merchantLocation": "Lodging",
+        "traveler": "Creed Bratton",
+        "travelerLocation": "Marketing - London",
+        "transactionDate": "Sep 24, 2025",
+        "flags": "Late airline booking less than 7 days",
+        "bookingSource": null,
+        "bookingStatus": "OE-platform booking",
+        "bookingStartDate": "Sep 24, 2025",
+        "destination": "Los Angeles",
+        "receipt": "Hotel in LA",
+        "memo": null,
+        "spentFrom": "Design Team Miami Office",
+        "paymentType": "Virtual card (1348)",
+        "amount": "$942.92"
+      },
+      {
+        "id": 60,
+        "merchant": "United Airlines",
+        "merchantLocation": "Airlines",
+        "traveler": "Creed Bratton",
+        "travelerLocation": "Marketing - London",
+        "transactionDate": "May 20, 2021",
+        "flags": "Late airline booking less than 7 days",
+        "bookingSource": null,
+        "bookingStatus": "OE-platform booking",
+        "bookingStartDate": "May 20, 2021",
+        "destination": "San Francisco → Los Angeles",
+        "receipt": "Flight to LAX",
+        "memo": null,
+        "spentFrom": "Design Team Miami Office",
+        "paymentType": "Virtual card (5745)",
+        "amount": "$352.24"
+      }
+    ]
+  },
+  {
+    "id": "group50",
+    "title": "Darryl's Sep 50 trip to San Francisco",
+    "date": "Sep 21 - 30, 2025",
+    "totalSpend": "$2,847.20",
+    "trips": []
+  },
+  {
+    "id": "group51",
+    "title": "Tanmay Mazumdar",
+    "date": "Sep 28 - 30, 2025",
+    "totalSpend": "155.91",
+    "trips": [
+      {
+        "id": 61,
+        "merchant": "Asia",
+        "merchantLocation": "Lodging",
+        "traveler": "Ahmad Khan",
+        "travelerLocation": "Support - New York City",
+        "transactionDate": "Sep 29, 2025",
+        "flags": null,
+        "bookingSource": null,
+        "bookingStatus": null,
+        "bookingStartDate": null,
+        "destination": null,
+        "receipt": "sample memo",
+        "memo": null,
+        "spentFrom": null,
+        "paymentType": "Reimbursement",
+        "amount": "CA$16.70"
+      },
+      {
+        "id": 62,
+        "merchant": "Academy to Innovati...",
+        "merchantLocation": "Other",
+        "traveler": "Ahmad Khan",
+        "travelerLocation": "Support - New York City",
+        "transactionDate": "Sep 29, 2025",
+        "flags": null,
+        "bookingSource": null,
+        "bookingStatus": null,
+        "bookingStartDate": null,
+        "destination": null,
+        "receipt": "test",
+        "memo": null,
+        "spentFrom": null,
+        "paymentType": "Reimbursement",
+        "amount": "CA$69.61"
+      }
+    ]
+  },
+  {
+    "id": "group52",
+    "title": "Calvin's Sep 52 trip to Denver",
+    "date": "Sep 29 - Oct 14, 2025",
+    "totalSpend": "$802.22",
+    "trips": [
+      {
+        "id": 63,
+        "merchant": "United Airlines",
+        "merchantLocation": "Airlines",
+        "traveler": "Calvin Lee",
+        "travelerLocation": "Engineering - New York City",
+        "transactionDate": "Jan 10, 2021",
+        "flags": "Late airline booking less than 7 days",
+        "bookingSource": null,
+        "bookingStatus": "OE-platform booking",
+        "bookingStartDate": "Jan 10, 2021",
+        "destination": "San Francisco → Denver",
+        "receipt": "Flight to Denver",
+        "memo": null,
+        "spentFrom": "Client Consulting Trip to New York",
+        "paymentType": "Virtual card (1420)",
+        "amount": "$782.22"
+      }
+    ]
+  },
+  {
+    "id": "group53",
+    "title": "Gabe's Sep 53 trip to Miami",
+    "date": "Sep 25 - 28, 2025",
+    "totalSpend": "$5,852.67",
+    "trips": [
+      {
+        "id": 64,
+        "merchant": "Uber",
+        "merchantLocation": "Uber and Rideshare",
+        "traveler": "Gabe Lewis",
+        "travelerLocation": "Support - London",
+        "transactionDate": "Sep 25, 2025",
+        "flags": "Spend above $1...",
+        "bookingSource": "Spend above $1...",
+        "bookingStatus": null,
+        "bookingStartDate": null,
+        "destination": null,
+        "receipt": null,
+        "memo": null,
+        "spentFrom": "Cruise with Client",
+        "paymentType": "Virtual card (1292)",
+        "amount": "$5,252.00"
+      }
+    ]
+  },
+  {
+    "id": "group54",
+    "title": "Creed's Sep 54 trip to Los Angeles",
+    "date": "Sep 20 - Oct 6, 2025",
+    "totalSpend": "$1,295.16",
+    "trips": [
+      {
+        "id": 65,
+        "merchant": "InterContinental",
+        "merchantLocation": "Lodging",
+        "traveler": "Creed Bratton",
+        "travelerLocation": "Marketing - London",
+        "transactionDate": "Sep 24, 2025",
+        "flags": "Late airline booking less than 7 days",
+        "bookingSource": null,
+        "bookingStatus": "OE-platform booking",
+        "bookingStartDate": "Sep 24, 2025",
+        "destination": "Los Angeles",
+        "receipt": "Hotel in LA",
+        "memo": null,
+        "spentFrom": "Design Team Miami Office",
+        "paymentType": "Virtual card (1348)",
+        "amount": "$942.92"
+      },
+      {
+        "id": 66,
+        "merchant": "United Airlines",
+        "merchantLocation": "Airlines",
+        "traveler": "Creed Bratton",
+        "travelerLocation": "Marketing - London",
+        "transactionDate": "May 20, 2021",
+        "flags": "Late airline booking less than 7 days",
+        "bookingSource": null,
+        "bookingStatus": "OE-platform booking",
+        "bookingStartDate": "May 20, 2021",
+        "destination": "San Francisco → Los Angeles",
+        "receipt": "Flight to LAX",
+        "memo": null,
+        "spentFrom": "Design Team Miami Office",
+        "paymentType": "Virtual card (5745)",
+        "amount": "$352.24"
+      }
+    ]
+  },
+  {
+    "id": "group55",
+    "title": "Darryl's Sep 55 trip to San Francisco",
+    "date": "Sep 21 - 30, 2025",
+    "totalSpend": "$2,847.20",
+    "trips": []
+  }
+]
