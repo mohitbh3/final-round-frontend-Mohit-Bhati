@@ -15,6 +15,7 @@ import {
   ChevronDown,
   Map as MapIcon,
   MoveRight,
+  ArrowLeft,
   ArrowRight,
   Search,
   Check,
@@ -220,7 +221,7 @@ export function Travel() {
   const [selectedTrip, setSelectedTrip] = useState<Group | null>(null);
   const [showUserProfile, setShowUserProfile] = useState(false);
   const [currentPage, setCurrentPage] = useState(1);
-  const itemsPerPage = 50;
+  const itemsPerPage = 10;
   const [searchQuery, setSearchQuery] = useState("");
   const [sortBy, setSortBy] = useState<string | null>(null);
   const [sortDir, setSortDir] = useState<"asc" | "desc">("asc");
@@ -785,7 +786,7 @@ export function Travel() {
             </Button>
             <Button
               size="sm"
-              className="bg-[#E4F222] hover:bg-[#ebfc00] text-black flex-1 sm:flex-none py-5 hover:underline"
+              className="bg-brand-yellow hover:bg-brand-yellow-dark text-black flex-1 sm:flex-none py-5 hover:underline"
             >
               <p className="text-lg">Book travel</p>
             </Button>
@@ -815,7 +816,7 @@ export function Travel() {
         </div>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 mb-4">
           <div className="flex flex-col gap-4">
-            <div className="">
+            <div>
               <div className="text-xs text-neutral-600 mb-1">Card spend</div>
               <div className="text-lg font-semibold">$789.52</div>
             </div>
@@ -1431,22 +1432,38 @@ export function Travel() {
       </div>
 
       {/* Footer - Fixed */}
-      <div className=" px-6 py-3 border-t border-neutral-200 bg-white flex items-center justify-end text-sm text-neutral-600 z-20 shadow-[0_-1px_3px_rgba(0,0,0,0.05)]">
-        <div className="flex items-center">
-          {totalMatches === 0
-            ? "0 items"
-            : `${(currentPage - 1) * itemsPerPage + 1}-${Math.min(
-                currentPage * itemsPerPage,
-                totalMatches
-              )} of ${totalMatches} matching items`}
+      <div className="px-6 py-3 border-t border-neutral-200 bg-white flex items-center justify-end text-sm text-neutral-600 z-20 shadow-[0_-1px_3px_rgba(0,0,0,0.05)]">
+        <div className="flex items-center gap-2">
+          <span className="text-sm text-neutral-600">
+            {totalMatches === 0
+              ? "0 items"
+              : `${(currentPage - 1) * itemsPerPage + 1}-${Math.min(
+                  currentPage * itemsPerPage,
+                  totalMatches
+                )} of ${totalMatches} matching items`}
+          </span>
+          {currentPage > 1 && (
+            <Button
+              variant="ghost"
+              size="sm"
+              onClick={() => setCurrentPage(currentPage - 1)}
+              className="hover:bg-neutral-100"
+            >
+              <ArrowLeft className="h-4 w-4" />
+            </Button>
+          )}
           <Button
             variant="ghost"
             size="sm"
             disabled={currentPage === totalPages}
             onClick={() => setCurrentPage(currentPage + 1)}
-            className={currentPage === totalPages ? "text-neutral-700" : ""}
+            className={`transition-opacity ${
+              currentPage === totalPages
+                ? "opacity-50 cursor-not-allowed"
+                : "hover:bg-neutral-100"
+            }`}
           >
-            <ArrowRight className="" />
+            <ArrowRight className="h-4 w-4" />
           </Button>
         </div>
       </div>
